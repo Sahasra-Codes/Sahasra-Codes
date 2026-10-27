@@ -2,15 +2,15 @@
 
 <img src="banner.png" alt="" width="100%" />
 
-# Hi 👋, I'm Sahasra
+# hello, I'm Sahasra ⭐
 
-**Full-Stack Engineer · UI/UX Designer**
+**Freshman @ UT DALLAS | Software Developer @ ACM Projects | Prev. Lead Business Intern @ Leadership Initiatives**
 
 </div>
 
 ---
 
-## About Me
+## a bit about me
 
 I'm a Computer Science student at UT Dallas who likes owning a product from the first sketch to the last deploy. I'm an all-rounded engineer: I build frontends, I go full-stack when a project needs it, and I design the experience in Figma before I write a line of code.
 
@@ -20,7 +20,7 @@ What ties it together is human-centered product engineering. I care less about s
 
 ---
 
-## Tech Stack
+## my tech stack
 
 **Languages**
 
