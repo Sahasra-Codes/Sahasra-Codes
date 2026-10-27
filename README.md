@@ -142,26 +142,6 @@ Always sketching the next thing: AI-guided tools, student-focused products, and 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117" alt="Streak stats" />
-
-</div>
-
----
-
-## 💡 Current Interests
-
-| | |
-|---|---|
-| 🧩 **Full-Stack Engineering** | Connecting polished frontends to real backends |
-| 🤖 **AI-Powered Developer Tools** | Building with LLMs, voice, and feedback loops |
-| 🎨 **Human-Centered Product Design** | Designing for how people actually think and feel |
-| ⚡ **Frontend Engineering** | Fast, accessible, delightful interfaces |
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
