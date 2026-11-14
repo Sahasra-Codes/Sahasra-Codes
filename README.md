@@ -1,8 +1,6 @@
 # hi, i'm sahasra!
 
-**imagination, with intention.**
-
-i'm a cs student interested in product engineering — where thoughtful design meets technical problem-solving.
+i'm a cs student interested in software engineering — where thoughtful design meets technical problem-solving.
 
 i love turning ideas into experiences that feel intuitive, intentional, and a little unexpected. currently exploring full-stack development, machine learning, and everything that happens behind the scenes.
 
